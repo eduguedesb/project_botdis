@@ -1,0 +1,1 @@
+Este projeto é um bot de chat para o Discord, desenvolvido em Python, que interage com os usuários em tempo real, respondendo a comandos e realizando consultas em APIs. O bot permite verificar o clima de cidades em tempo real utilizando a API do OpenWeatherMap.
